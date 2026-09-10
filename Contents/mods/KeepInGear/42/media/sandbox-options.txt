@@ -1,0 +1,19 @@
+VERSION = 1,
+
+option KeepInGear.EngineBraking
+{
+    type = boolean,
+    default = true,
+    page = KeepInGear,
+    translation = KeepInGearEngineBraking,
+}
+
+option KeepInGear.EngineBrakingStrength
+{
+    type = integer,
+    min = 0,
+    max = 200,
+    default = 100,
+    page = KeepInGear,
+    translation = KeepInGearEngineBrakingStrength,
+}

@@ -1,0 +1,8 @@
+id=KeepInGear
+name=Keep In Gear
+description=Vehicles no longer drop into neutral the moment you release the accelerator.
+poster=poster.png
+tags=Build 42
+versionMin=42.0
+author=ZomboidLabs
+url=https://github.com/ZomboidLabs/KeepInGear

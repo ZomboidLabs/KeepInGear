@@ -1,0 +1,24 @@
+version=1
+id=
+title=Keep In Gear
+description=[h2]Vehicles no longer drop into neutral the moment you release the accelerator.[/h2]
+description=
+description=In vanilla Build 42, lifting off the accelerator or touching the brake puts the gearbox straight into neutral. The gear indicator reads N, the revs sag to idle, and the engine note drops away even at 80 km/h.
+description=
+description=This mod holds the gear that matches your road speed, keeps the revs tracking the wheels instead of falling to idle, and adds engine braking that bites harder in a lower gear.
+description=
+description=[h3]Details[/h3]
+description=[list]
+description=[*]Covers coasting, braking and reversing. Below about 5 km/h, and with the engine off, the gearbox is left in neutral, where it belongs.
+description=[*]Picks the same gear the game itself would, so getting back on the accelerator never jerks the gearbox.
+description=[*]Fuel use while coasting stays exactly as it is in vanilla. Holding revs would otherwise have made coasting several times more expensive.
+description=[*]Engine braking can be turned off, or its strength adjusted, in the world settings when the world is made.
+description=[*]Multiplayer: install it on the server as well as the clients. Settings come from the server, and the gear you are in reaches everyone else as usual.
+description=[/list]
+description=
+description=[h3]Source[/h3]
+description=[url=https://github.com/ZomboidLabs/KeepInGear]github.com/ZomboidLabs/KeepInGear[/url]
+description=
+description=[h3]Copyright 2026 ZomboidLabs. This item is not authorized for posting on Steam, except under the Steam account named azureswastika.[/h3]
+tags=Build 42
+visibility=unlisted

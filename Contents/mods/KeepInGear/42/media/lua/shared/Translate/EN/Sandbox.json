@@ -1,0 +1,7 @@
+{
+    "Sandbox_KeepInGear": "Keep In Gear",
+    "Sandbox_KeepInGearEngineBraking": "Engine braking",
+    "Sandbox_KeepInGearEngineBraking_tooltip": "Coasting in gear slows the vehicle down, harder in a low gear. Turn off to correct the gear and the rev counter without touching the physics.",
+    "Sandbox_KeepInGearEngineBrakingStrength": "Engine braking strength",
+    "Sandbox_KeepInGearEngineBrakingStrength_tooltip": "Percentage of the default engine braking force."
+}
